@@ -1,0 +1,74 @@
+
+
+
+
+body {
+    color: #421359;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #82fae1;
+    text-align: center;
+}
+
+.banner {
+	color: #fff;
+	margin: 0;
+	padding: 10px;
+	width: 100%;
+
+	background-image: url('images/backgroundwithspots.jpeg');
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-size: 100%;
+	background-attachment: fixed;
+	height: 200px;
+
+}
+
+.about {
+	padding: 10px;
+	
+
+}
+
+.about p {
+	font-family: "gochi hand" , sans-serif;
+	font-size: 1.25rem;
+	font-weight: bold;
+	letter-spacing: 0.1rem;
+	color: #e44e7d;
+}
+
+h3 {
+	font-family: "gochi hand" , sans-serif;
+	color:#e44e7d;
+}
+
+img {
+	border: 9px solid #f06818;
+}
+
+.twitter img{
+	border: none;
+}
+.menu a{
+    text-decoration: none;
+    color: #f06818;
+
+}
+
+.menu a:hover {
+	color: #fff;
+}
+
+.menu li {
+	list-style-type: none;
+	display:inline;
+	padding-left: 15px;
+}
+.menu {
+	border: 6px solid #f06818;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+
